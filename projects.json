@@ -1,7 +1,7 @@
 {
     "page": 1,
     "perPage": 30,
-    "totalItems": 2,
+    "totalItems": 4,
     "totalPages": 1,
     "items": [
         {
@@ -10,6 +10,48 @@
             "created": "2024-05-12 16:37:52.282Z",
             "description": "Share files and text locally via browser.",
             "expand": {
+                "languages": [
+                    {
+                        "collectionId": "thxy90xrfrxwogu",
+                        "collectionName": "languages",
+                        "created": "2024-05-12 16:33:48.542Z",
+                        "id": "t0gd0o0iqqef08f",
+                        "name": "Kotlin",
+                        "updated": "2024-05-12 16:33:48.542Z"
+                    },
+                    {
+                        "collectionId": "thxy90xrfrxwogu",
+                        "collectionName": "languages",
+                        "created": "2024-05-12 16:34:00.452Z",
+                        "id": "tu9j2o6jxhgs41m",
+                        "name": "XML",
+                        "updated": "2024-05-12 16:34:00.452Z"
+                    },
+                    {
+                        "collectionId": "thxy90xrfrxwogu",
+                        "collectionName": "languages",
+                        "created": "2024-05-12 16:34:09.714Z",
+                        "id": "8qcm0w0v75aed79",
+                        "name": "Javascript",
+                        "updated": "2024-05-12 16:34:09.714Z"
+                    },
+                    {
+                        "collectionId": "thxy90xrfrxwogu",
+                        "collectionName": "languages",
+                        "created": "2024-05-12 16:34:15.771Z",
+                        "id": "tx6d732njjoj3ai",
+                        "name": "CSS",
+                        "updated": "2024-05-12 16:34:15.771Z"
+                    },
+                    {
+                        "collectionId": "thxy90xrfrxwogu",
+                        "collectionName": "languages",
+                        "created": "2024-05-12 16:34:21.294Z",
+                        "id": "qpzpwlbwvhdou6l",
+                        "name": "HTML",
+                        "updated": "2024-05-12 16:34:21.294Z"
+                    }
+                ],
                 "links": [
                     {
                         "collectionId": "d8ed6fqxk5udsth",
@@ -34,64 +76,41 @@
                         "updated": "2024-05-13 06:59:50.205Z"
                     }
                 ],
-                "tech": [
-                    {
-                        "collectionId": "thxy90xrfrxwogu",
-                        "collectionName": "techList",
-                        "created": "2024-05-12 16:33:48.542Z",
-                        "id": "t0gd0o0iqqef08f",
-                        "name": "Kotlin",
-                        "updated": "2024-05-12 16:33:48.542Z"
-                    },
-                    {
-                        "collectionId": "thxy90xrfrxwogu",
-                        "collectionName": "techList",
-                        "created": "2024-05-12 16:34:00.452Z",
-                        "id": "tu9j2o6jxhgs41m",
-                        "name": "XML",
-                        "updated": "2024-05-12 16:34:00.452Z"
-                    },
-                    {
-                        "collectionId": "thxy90xrfrxwogu",
-                        "collectionName": "techList",
-                        "created": "2024-05-12 16:34:09.714Z",
-                        "id": "8qcm0w0v75aed79",
-                        "name": "Javascript",
-                        "updated": "2024-05-12 16:34:09.714Z"
-                    },
-                    {
-                        "collectionId": "thxy90xrfrxwogu",
-                        "collectionName": "techList",
-                        "created": "2024-05-12 16:34:15.771Z",
-                        "id": "tx6d732njjoj3ai",
-                        "name": "CSS",
-                        "updated": "2024-05-12 16:34:15.771Z"
-                    },
-                    {
-                        "collectionId": "thxy90xrfrxwogu",
-                        "collectionName": "techList",
-                        "created": "2024-05-12 16:34:21.294Z",
-                        "id": "qpzpwlbwvhdou6l",
-                        "name": "HTML",
-                        "updated": "2024-05-12 16:34:21.294Z"
-                    }
-                ]
+                "tech": {
+                    "collectionId": "63shd1s2kmrepm8",
+                    "collectionName": "tech",
+                    "created": "2024-05-14 13:58:56.221Z",
+                    "id": "rdhxr631xd7vscm",
+                    "name": "Android",
+                    "updated": "2024-05-14 14:01:49.087Z",
+                    "value": "android"
+                },
+                "type": {
+                    "collectionId": "maqe2jyxj9kw2zi",
+                    "collectionName": "projectType",
+                    "created": "2024-05-14 14:00:58.366Z",
+                    "id": "yo3dy8enfsd73oa",
+                    "name": "app",
+                    "updated": "2024-05-14 14:00:58.366Z"
+                }
             },
             "id": "yegd14f8ekxd1ue",
-            "link": "https://www.satysnehith.com/projects/webshare",
-            "links": [
-                "lazrt2c5vu5y4dt",
-                "j6jzf4qh96evc9e"
-            ],
-            "tech": [
+            "languages": [
                 "t0gd0o0iqqef08f",
                 "tu9j2o6jxhgs41m",
                 "8qcm0w0v75aed79",
                 "tx6d732njjoj3ai",
                 "qpzpwlbwvhdou6l"
             ],
+            "link": "https://www.satysnehith.com/projects/webshare",
+            "links": [
+                "lazrt2c5vu5y4dt",
+                "j6jzf4qh96evc9e"
+            ],
+            "tech": "rdhxr631xd7vscm",
             "title": "WebShare: Local File Sharing",
-            "updated": "2024-05-13 07:49:22.337Z"
+            "type": "yo3dy8enfsd73oa",
+            "updated": "2024-05-14 14:03:37.579Z"
         },
         {
             "collectionId": "trirfag1g9elsoh",
@@ -99,6 +118,16 @@
             "created": "2024-05-13 07:07:11.792Z",
             "description": "Sudoku application in JavaFX",
             "expand": {
+                "languages": [
+                    {
+                        "collectionId": "thxy90xrfrxwogu",
+                        "collectionName": "languages",
+                        "created": "2024-05-13 07:06:35.037Z",
+                        "id": "afpz6ure99s67it",
+                        "name": "Java",
+                        "updated": "2024-05-13 07:06:35.037Z"
+                    }
+                ],
                 "links": [
                     {
                         "collectionId": "d8ed6fqxk5udsth",
@@ -112,27 +141,156 @@
                         "updated": "2024-05-13 07:07:09.375Z"
                     }
                 ],
-                "tech": [
-                    {
-                        "collectionId": "thxy90xrfrxwogu",
-                        "collectionName": "techList",
-                        "created": "2024-05-13 07:06:35.037Z",
-                        "id": "afpz6ure99s67it",
-                        "name": "Java",
-                        "updated": "2024-05-13 07:06:35.037Z"
-                    }
-                ]
+                "tech": {
+                    "collectionId": "63shd1s2kmrepm8",
+                    "collectionName": "tech",
+                    "created": "2024-05-14 13:59:03.623Z",
+                    "id": "z0krct5hxyk9jhm",
+                    "name": "JavaFX",
+                    "updated": "2024-05-14 14:01:44.726Z",
+                    "value": "javafx"
+                },
+                "type": {
+                    "collectionId": "maqe2jyxj9kw2zi",
+                    "collectionName": "projectType",
+                    "created": "2024-05-14 14:00:58.366Z",
+                    "id": "yo3dy8enfsd73oa",
+                    "name": "app",
+                    "updated": "2024-05-14 14:00:58.366Z"
+                }
             },
             "id": "kpbce2nida02g2h",
+            "languages": [
+                "afpz6ure99s67it"
+            ],
             "link": "",
             "links": [
                 "1fa0htq7ae5glad"
             ],
-            "tech": [
-                "afpz6ure99s67it"
-            ],
+            "tech": "z0krct5hxyk9jhm",
             "title": "Sudoku",
-            "updated": "2024-05-13 07:49:20.321Z"
+            "type": "yo3dy8enfsd73oa",
+            "updated": "2024-05-14 14:03:23.583Z"
+        },
+        {
+            "collectionId": "trirfag1g9elsoh",
+            "collectionName": "projects",
+            "created": "2024-05-14 14:05:24.353Z",
+            "description": "Compose TextField library with clean label animation",
+            "expand": {
+                "languages": [
+                    {
+                        "collectionId": "thxy90xrfrxwogu",
+                        "collectionName": "languages",
+                        "created": "2024-05-12 16:33:48.542Z",
+                        "id": "t0gd0o0iqqef08f",
+                        "name": "Kotlin",
+                        "updated": "2024-05-12 16:33:48.542Z"
+                    }
+                ],
+                "links": [
+                    {
+                        "collectionId": "d8ed6fqxk5udsth",
+                        "collectionName": "links",
+                        "created": "2024-05-14 14:05:05.387Z",
+                        "id": "9pwijoscwcazkkl",
+                        "link": "https://github.com/SatyaSnehith/CleanTextField",
+                        "project": "cleantextField",
+                        "title": "Github",
+                        "type": "code",
+                        "updated": "2024-05-14 14:05:05.387Z"
+                    }
+                ],
+                "tech": {
+                    "collectionId": "63shd1s2kmrepm8",
+                    "collectionName": "tech",
+                    "created": "2024-05-14 13:58:56.221Z",
+                    "id": "rdhxr631xd7vscm",
+                    "name": "Android",
+                    "updated": "2024-05-14 14:01:49.087Z",
+                    "value": "android"
+                },
+                "type": {
+                    "collectionId": "maqe2jyxj9kw2zi",
+                    "collectionName": "projectType",
+                    "created": "2024-05-14 14:01:03.743Z",
+                    "id": "86aktzbwy119jty",
+                    "name": "library",
+                    "updated": "2024-05-14 14:01:03.743Z"
+                }
+            },
+            "id": "ulryshpn6cf673a",
+            "languages": [
+                "t0gd0o0iqqef08f"
+            ],
+            "link": "",
+            "links": [
+                "9pwijoscwcazkkl"
+            ],
+            "tech": "rdhxr631xd7vscm",
+            "title": "CleanTextField",
+            "type": "86aktzbwy119jty",
+            "updated": "2024-05-14 14:05:24.353Z"
+        },
+        {
+            "collectionId": "trirfag1g9elsoh",
+            "collectionName": "projects",
+            "created": "2024-05-14 14:06:48.930Z",
+            "description": "Articles Create, Read, Update and Delete",
+            "expand": {
+                "languages": [
+                    {
+                        "collectionId": "thxy90xrfrxwogu",
+                        "collectionName": "languages",
+                        "created": "2024-05-12 16:33:48.542Z",
+                        "id": "t0gd0o0iqqef08f",
+                        "name": "Kotlin",
+                        "updated": "2024-05-12 16:33:48.542Z"
+                    }
+                ],
+                "links": [
+                    {
+                        "collectionId": "d8ed6fqxk5udsth",
+                        "collectionName": "links",
+                        "created": "2024-05-14 14:06:27.004Z",
+                        "id": "yn7y173sml2gqee",
+                        "link": "https://github.com/SatyaSnehith/ACRUD",
+                        "project": "acrud",
+                        "title": "Github",
+                        "type": "code",
+                        "updated": "2024-05-14 14:06:27.004Z"
+                    }
+                ],
+                "tech": {
+                    "collectionId": "63shd1s2kmrepm8",
+                    "collectionName": "tech",
+                    "created": "2024-05-14 13:58:56.221Z",
+                    "id": "rdhxr631xd7vscm",
+                    "name": "Android",
+                    "updated": "2024-05-14 14:01:49.087Z",
+                    "value": "android"
+                },
+                "type": {
+                    "collectionId": "maqe2jyxj9kw2zi",
+                    "collectionName": "projectType",
+                    "created": "2024-05-14 14:00:58.366Z",
+                    "id": "yo3dy8enfsd73oa",
+                    "name": "app",
+                    "updated": "2024-05-14 14:00:58.366Z"
+                }
+            },
+            "id": "z0n33nw50dkqm2v",
+            "languages": [
+                "t0gd0o0iqqef08f"
+            ],
+            "link": "",
+            "links": [
+                "yn7y173sml2gqee"
+            ],
+            "tech": "rdhxr631xd7vscm",
+            "title": "ACRUD",
+            "type": "yo3dy8enfsd73oa",
+            "updated": "2024-05-14 14:06:48.930Z"
         }
     ]
 }
