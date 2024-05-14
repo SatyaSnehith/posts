@@ -90,8 +90,9 @@
                     "collectionName": "projectType",
                     "created": "2024-05-14 14:00:58.366Z",
                     "id": "yo3dy8enfsd73oa",
-                    "name": "app",
-                    "updated": "2024-05-14 14:00:58.366Z"
+                    "name": "App",
+                    "updated": "2024-05-14 16:08:12.131Z",
+                    "value": "app"
                 }
             },
             "id": "yegd14f8ekxd1ue",
@@ -155,8 +156,9 @@
                     "collectionName": "projectType",
                     "created": "2024-05-14 14:00:58.366Z",
                     "id": "yo3dy8enfsd73oa",
-                    "name": "app",
-                    "updated": "2024-05-14 14:00:58.366Z"
+                    "name": "App",
+                    "updated": "2024-05-14 16:08:12.131Z",
+                    "value": "app"
                 }
             },
             "id": "kpbce2nida02g2h",
@@ -215,8 +217,9 @@
                     "collectionName": "projectType",
                     "created": "2024-05-14 14:01:03.743Z",
                     "id": "86aktzbwy119jty",
-                    "name": "library",
-                    "updated": "2024-05-14 14:01:03.743Z"
+                    "name": "Library",
+                    "updated": "2024-05-14 16:08:06.165Z",
+                    "value": "library"
                 }
             },
             "id": "ulryshpn6cf673a",
@@ -275,8 +278,9 @@
                     "collectionName": "projectType",
                     "created": "2024-05-14 14:00:58.366Z",
                     "id": "yo3dy8enfsd73oa",
-                    "name": "app",
-                    "updated": "2024-05-14 14:00:58.366Z"
+                    "name": "App",
+                    "updated": "2024-05-14 16:08:12.131Z",
+                    "value": "app"
                 }
             },
             "id": "z0n33nw50dkqm2v",
